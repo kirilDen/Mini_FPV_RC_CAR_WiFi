@@ -1,7 +1,7 @@
 # KDen_Mini Rc Car
 Realizing my childhood dream of creating a mini FPV RC car for indoor racing games!
 
-
+https://youtube.com/shorts/6Kg9kbaMGuA?si=WzCg3hsImuLizrHK
 
 ## Hardware Used
 
