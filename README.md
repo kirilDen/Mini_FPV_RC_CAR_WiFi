@@ -5,13 +5,13 @@ https://youtube.com/shorts/G_jguQ4fAcw?si=hs_rlDZ7Hp37q1EM
 
 ## Hardware Used
 
-* Seeed Studio XIAO ESPC3
-* DRV8833 Motor Driver
+* Seeed Studio XIAO ESPC3    https://a.co/d/00MtvEWj
+* DRV8833 Motor Driver       https://a.co/d/0gGzVYTd
 * TP4056 Charger Module
-* WT05 Micro AIO 600TVL Camera Only
-* Lipo Battery 3.7V 400mAh High-Discharge rating (for motor surges)
-* N20 High Torque Speed Reduction Motor 6v 1000rpm
-* Micro Servo 3.7g GH-S37D Mini Digital Servo
+* AKK BA3 5.8G 40CH VTX 0/25mW/50mW/200mW Switchable 600TVL 1/3 Cmos Micro AIO FPV Camera   https://a.co/d/0cFaR0xu
+* Lipo Battery 3.7V 400mAh High-Discharge rating (for motor surges)    https://a.co/d/0czWE2mf
+* N20 High Torque Speed Reduction Motor 6v 1000rpm        https://a.co/d/00qm0RhG
+* Micro Servo 3.7g GH-S37D Mini Digital Servo     https://a.co/d/0eYbCVMy
 
 
 
