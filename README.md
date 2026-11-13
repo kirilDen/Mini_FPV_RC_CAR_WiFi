@@ -15,8 +15,7 @@ https://youtube.com/shorts/G_jguQ4fAcw?si=hs_rlDZ7Hp37q1EM
 * N20 High Torque Speed Reduction Motor 6v 1000rpm    | 1PCS | 1 from 4-pack at $12.99 |                              https://a.co/d/00qm0RhG
 * Micro Servo 3.7g GH-S37D Mini Digital Servo   | 1PCS | 1 from 6-pack at $26.18 |                                    https://a.co/d/0eYbCVMy
 
-
-Filaments Used
+Filaments Used:
 Black PLA Overture   | 1 spool |  $15.99  |                                                                           https://a.co/d/02X03DmQ
 White TPU 95a Overture   | 1 spool | $20.69  |                                                                        https://a.co/d/0bN1WhnU
 
