@@ -19,7 +19,7 @@ Filaments Used:
 Black PLA Overture   | 1 spool |  $15.99  |                                                                           https://a.co/d/02X03DmQ
 White TPU 95a Overture   | 1 spool | $20.69  |                                                                        https://a.co/d/0bN1WhnU
 
-
+Paint Used:  Miniature Acrylic Paint | $26.99 |                                                                       https://a.co/d/027goxL4
 
 
 
