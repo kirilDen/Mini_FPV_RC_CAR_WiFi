@@ -7,13 +7,13 @@ https://youtube.com/shorts/G_jguQ4fAcw?si=hs_rlDZ7Hp37q1EM
 
 ## Hardware Used
 
-* Seeed Studio XIAO ESPC3    https://a.co/d/00MtvEWj
-* DRV8833 Motor Driver       https://a.co/d/0gGzVYTd
-* TP4056 Charger Module
-* AKK BA3 5.8G 40CH VTX 0/25mW/50mW/200mW Switchable 600TVL 1/3 Cmos Micro AIO FPV Camera   https://a.co/d/0cFaR0xu
-* Lipo Battery 3.7V 400mAh High-Discharge rating (for motor surges)    https://a.co/d/0czWE2mf
-* N20 High Torque Speed Reduction Motor 6v 1000rpm        https://a.co/d/00qm0RhG
-* Micro Servo 3.7g GH-S37D Mini Digital Servo     https://a.co/d/0eYbCVMy
+* Seeed Studio XIAO ESPC3  | 1PCS | $9.90 |                                                                           https://a.co/d/00MtvEWj
+* DRV8833 Motor Driver     | 1PCS | 1 from 5-pack at $6.95 |                                                          https://a.co/d/0gGzVYTd
+* TP4056 Charger Module   | 1PCS | 1 from 20-pack at $13.97 |                                                         https://a.co/d/0cJYDKQz
+* AKK BA3 5.8G 40CH VTX 0/25mW/50mW/200mW Switchable 600TVL 1/3 Cmos Micro AIO FPV Camera | 1PCS | $28.99 |           https://a.co/d/0cFaR0xu
+* Lipo Battery 3.7V 400mAh High-Discharge rating (for motor surges)   | 1PCS | 1 from 5-pack at $14.99 |              https://a.co/d/0czWE2mf
+* N20 High Torque Speed Reduction Motor 6v 1000rpm    | 1PCS | 1 from 4-pack at $12.99 |                              https://a.co/d/00qm0RhG
+* Micro Servo 3.7g GH-S37D Mini Digital Servo   | 1PCS | 1 from 6-pack at $26.18 |                                    https://a.co/d/0eYbCVMy
 
 
 
